@@ -6,6 +6,7 @@ import {
   faXTwitter,
   faPinterestP,
 } from "@fortawesome/free-brands-svg-icons";
+import logo from "../assets/images/main-logo.png";
 
 const sections = ["home", "about", "experience", "portfolio", "contact"];
 
@@ -118,11 +119,11 @@ function Navigation() {
             {/* LOGO */}
             <div style={{ marginTop: 40 }}>
               <a href="#home" onClick={() => setMenuOpen(false)}>
-                <img
+                {/* <img
                   src="/src/assets/images/main-logo.png"
                   alt="logo"
                   width={130}
-                />
+                /> */}<img src={logo} alt="logo" width={130} />
               </a>
             </div>
 
