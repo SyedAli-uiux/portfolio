@@ -5,7 +5,7 @@ function Header(){
             <div class="row">
               <div class="col-lg-6">
                 <div class="banner-image text-center" data-aos="fade-right">
-                  <img src="../src/assets/images/banner-image.png" alt="banner" class="img-fluid"/>
+                  <img src="../assets/images/banner-image.png" alt="banner" class="img-fluid"/>
                 </div>
               </div>
               <div class="col-lg-6">
