@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "src": "/json-images/Logos/Sudha-clinic/Sudha-logo.jpg",
+    "src": "json-images/Logos/Sudha-clinic/Sudha-logo.jpg",
     "title": "Logo-Design",
     "subtitle": "Sudha-clinic",
     "description": "“A clean, modern logo designed for a trusted clinic and diagnostic laboratory, reflecting precision, care, and professionalism.” ",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "src": "/json-images/Logos/Go-Acadamy/Go_acadamy.jpeg",
+    "src": "json-images/Logos/Go-Acadamy/Go_acadamy.jpeg",
     "title": "Logo-Design",
     "subtitle": "Go Acadamy",
     "description": "“A minimal and classic logo representing a global learning academy focused on student growth and academic excellence.” ",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "src": "/json-images/Logos/HS-Medical-Logo/Logo-1.jpg",
+    "src": "json-images/Logos/HS-Medical-Logo/Logo-1.jpg",
     "title": "Logo-Design",
     "subtitle": "Hermon Medical-Logo-1",
     "description": "“A clean and modern logo representing a trusted medical and pharmacy brand focused on health, care, and reliability.” ",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "src": "/json-images/Logos/HS-Medical-Logo/Logo-2.jpg",
+    "src": "json-images/Logos/HS-Medical-Logo/Logo-2.jpg",
     "title": "Logo-Design",
     "subtitle": "Hermon Medical-Logo-2",
     "description": "“A clean and modern logo representing a trusted medical and pharmacy brand focused on health, care, and reliability.” ",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "src": "/json-images/Logos/HS-Medical-Logo/Logo-3.jpg",
+    "src": "json-images/Logos/HS-Medical-Logo/Logo-3.jpg",
     "title": "Logo-Design",
     "subtitle": "Hermon Medical-Logo-3",
     "description": "“A clean and modern logo representing a trusted medical and pharmacy brand focused on health, care, and reliability.” ",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "src": "/json-images/Logos/HS-Medical-Logo/Logo-4.jpg",
+    "src": "json-images/Logos/HS-Medical-Logo/Logo-4.jpg",
     "title": "Logo-Design",
     "subtitle": "Hermon Medical-Logo-4",
     "description": "“A clean and modern logo representing a trusted medical and pharmacy brand focused on health, care, and reliability.” ",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "src": "/json-images/Logos/Pet_Shop-LOGO/design-logo-1.jpg",
+    "src": "json-images/Logos/Pet_Shop-LOGO/design-logo-1.jpg",
     "title": "Logo-Design",
     "subtitle": "Pet-Shop-Logo-1",
     "description": "“A clean and playful logo designed for a pet shop, symbolizing care, companionship, and animal love.” ",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "src": "/json-images/Logos/Pet_Shop-LOGO/design-logo-2.jpg",
+    "src": "json-images/Logos/Pet_Shop-LOGO/design-logo-2.jpg",
     "title": "Logo-Design",
     "subtitle": "Pet-Shop-Logo-2",
     "description": "“A clean and playful logo designed for a pet shop, symbolizing care, companionship, and animal love.” ",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "src": "/json-images/Logos/Pet_Shop-LOGO/design-logo-3.jpg",
+    "src": "json-images/Logos/Pet_Shop-LOGO/design-logo-3.jpg",
     "title": "Logo-Design",
     "subtitle": "Pet-Shop-Logo-3",
     "description": "“A clean and playful logo designed for a pet shop, symbolizing care, companionship, and animal love.” ",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "src": "/json-images/Logos/Ruposy-global-Logo/Logo-1.jpg",
+    "src": "json-images/Logos/Ruposy-global-Logo/Logo-1.jpg",
     "title": "Logo-Design",
     "subtitle": "Ruposy-global-Logo-1",
     "description": "“A clean and playful logo designed for a pet shop, symbolizing care, companionship, and animal love.” ",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "src": "/json-images/Logos/Student_Management-System/Student-management-hs-logo.jpg",
+    "src": "json-images/Logos/Student_Management-System/Student-management-hs-logo.jpg",
     "title": "Logo-Design",
     "subtitle": "Student_Management-System-Logo",
     "description": "“A clean and modern logo representing a smart Student Management System designed to streamline academic and administrative tasks.” ",
